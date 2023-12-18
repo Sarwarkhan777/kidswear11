@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background: gray;
+}
+span{
+    display: flex;
+    justify-content: space-around;
+}
+.card1{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.btn{
+    margin-left: 10vw;
+    margin-top: 2vh;
+}
